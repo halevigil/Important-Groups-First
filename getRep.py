@@ -1,5 +1,6 @@
 import numpy as np
 import time
+
 import tensorflow as tf
 import tensorflow_hub as hub
 import gc
