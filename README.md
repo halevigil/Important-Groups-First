@@ -1,6 +1,7 @@
-# Important-Groups-First
+# Important Groups First: Encouraging Disentanglement in Variational Autoencoders
 
-Abstract:
+**Abstract:**
+
 Machine learning models represent data as vectors for a variety of tasks. Creating
 vector representations that are disentangled—where every dimension in the vector
 represents one human-interpretable aspect of the data—has been gaining interest re-
@@ -14,6 +15,6 @@ recovering images from their representations. Our method proves competitive to e
 isting methods, with similar results in terms of disentanglement consistency and the
 tradeoff between image quality and disentanglement.
 
-The full paper is in this repo
+The full paper is in this repository.
 
-In this repo you will also find some visualizations I did as part of analysis for this project
+In this repository you will also find some visualizations I did as part of analysis for this project.
