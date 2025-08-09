@@ -1,7 +1,5 @@
 # Important-Groups-First
 
-This is a directory containing the code I used for my project entitled "Important Groups First: Encouraging Disentanglement in Variational Autoencoders"
-
 Abstract:
 Machine learning models represent data as vectors for a variety of tasks. Creating
 vector representations that are disentangled—where every dimension in the vector
@@ -16,4 +14,6 @@ recovering images from their representations. Our method proves competitive to e
 isting methods, with similar results in terms of disentanglement consistency and the
 tradeoff between image quality and disentanglement.
 
-Read the full paper here:
+The full paper is in this repo
+
+In this repo you will also find some visualizations I did as part of analysis for this project
